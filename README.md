@@ -1,4 +1,4 @@
-<h1 align="center"> THE CONTINUOUS-RELEASE WORKFLOW</h1>
+<h1 align="center"> THE GIT+HUB FLOW</h1>
 
 <p align="center">
   <a href="https://github.com/udohjeremiah/Git-Plus-Hub-Flow">
