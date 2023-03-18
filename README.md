@@ -57,7 +57,7 @@ So, what is the **Git+Hub Flow**?
   for releases other than the current stable release, there can be more than one
   `release-vX.Y` branch.
 
-- When compared to the **stable** `release-vX.Y` branch, the main branch is considered
+- When compared to the **stable** `release-vX.Y` branch, the `main` branch is considered
   **unstable**. This is because new features and changes are frequently added to it without
   prior notice to project users, which could potentially break existing functionality or
   user interactions. In contrast, `release-vX.Y` does not change frequently, and any
