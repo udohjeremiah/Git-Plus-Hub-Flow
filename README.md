@@ -1,8 +1,8 @@
-<h1 align="center"> THE CONTINUOUS-RELEASE WORKFLOW</h1>
+<h1 align="center"> THE GIT+HUB FLOW</h1>
 
 <p align="center">
   <a href="https://github.com/udohjeremiah/Git-Plus-Hub-Flow">
-    <img src="https://img.shields.io/badge/Workflow-Git+Hub%20Flow-F05032?logo=git&logoColor=red" height="50">
+    <img src="https://img.shields.io/badge/Workflow-Git+Hub%20Flow-F05032?logo=git&logoColor=red" height="40">
   </a>
 </p>
 
